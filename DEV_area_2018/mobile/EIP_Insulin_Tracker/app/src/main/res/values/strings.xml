@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InsulinTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="insulin_taken">Units of insulin taken</string>
+    <string name="insulin_injection_timestamp">Insulin taken on</string>
+    <string name="default_insulin_value">0</string>
+    <string name="at">at</string>
+    <string name="time_format">yyyy/mm/dd-HH:mm</string>
+    <string name="auto_date">Set date to now</string>
+    <string name="description">Description</string>
+    <string name="generate_csv">Generate CSV</string>
+    <string name="optional">This is optional</string>
+</resources>
